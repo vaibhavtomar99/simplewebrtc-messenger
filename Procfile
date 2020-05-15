@@ -1,1 +1,1 @@
-web: node ./simplewebrtc-messenger/server.js
+web: node server.js
